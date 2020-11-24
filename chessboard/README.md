@@ -1,0 +1,1 @@
+This app uses react, javascript, and css to allow you to play chess against your friends.
